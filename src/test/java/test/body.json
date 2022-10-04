@@ -1,0 +1,13 @@
+{
+  "field":
+  {
+    "summary": " Summary | From Jira API",
+    "project": {
+      "key": "KIENTESTAPI"
+    },
+    "issuetype":
+    {
+      "id": "10001"
+    }
+  }
+}
